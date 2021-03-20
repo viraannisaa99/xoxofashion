@@ -1,0 +1,57 @@
+/* .body {
+  min-height: 2000px;
+} */
+
+.jumbotron {
+  padding: 2rem 0 0 0;
+  background-color: #cdece7;
+}
+
+.img_sec {
+  padding: 2rem 0 0 0;
+}
+
+.img {
+  padding-bottom: 6rem;
+}
+
+#projets {
+  background-color: #cdece7;
+}
+
+#projets {
+  display: inline-block;
+}
+
+.colorPicker {
+  width: 20px;
+  height: 20px;
+  margin: 5px;
+  display: inline-block;
+  border-radius: 2px;
+}
+
+.form-about {
+  max-width: 80%;
+}
+
+.about {
+  align-content: center;
+}
+
+.jumbotron-about {
+  padding: 2rem 2rem 2rem 2rem;
+  background-color: #cdece7;
+  max-height: 220px;
+}
+
+.jumbotron-contact {
+  padding: 2rem 2rem 2rem 2rem;
+  background-color: #cdece7;
+}
+
+.footer {
+  background-color: black;
+  padding: 2rem 1rem 1rem 2rem;
+  color: white;
+}
