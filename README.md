@@ -1,4 +1,4 @@
-# Node.js Setup
+# Node.js Setup (REST API)
 
 cd first-node\backend
 
